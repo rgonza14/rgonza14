@@ -1,11 +1,12 @@
-Hi 👋 My name is Ruiz Gonzalo
+![Header](./github-header-image.png)
 =============================
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rgonza14)
 
 Systems Engineering student and fullstack developer from :argentina: Argentina.
 
-* 🖥️  Visit my portfolio at [Portfolio](http://rgonza14.github.io/)
+* 🖥️  Visit my portfolio [here](http://rgonza14.github.io/)
 * ✉️  Contact me at [r.gonza1425@gmail.com](mailto:r.gonza1425@gmail.com)
-
+  
 ## Technologies
 
 ### Frontend
